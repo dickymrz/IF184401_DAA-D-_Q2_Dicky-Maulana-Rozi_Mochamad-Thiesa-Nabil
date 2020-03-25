@@ -1,10 +1,14 @@
 ## How to play 8-puzzle using Breadth-First Search (BFS) in python
 
-1.  Run the python file and will show "Insert Start State (e.g '1 2 3 4 5 6 7 8 0')"
-
+1.  Run the python file and will show 
+    ```
+    "Insert Start State (e.g '1 2 3 4 5 6 7 8 0')"
+    ```
 2.  Enter 8 digit different numbers Range = {0,1,2,3,4,5,6,7,8}
-    Example : 7 5 4 0 3 2 8 1 6
-    
+    Example : 
+    ```
+    7 5 4 0 3 2 8 1 6
+    ```
 3.  If the puzzle showed up then its time to start to play, and if the puzzle not showed up means you entered the wrong number. 
     Example : 
     ```
