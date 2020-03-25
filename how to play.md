@@ -13,11 +13,11 @@
     8,1,6
     ```
 4.  Solve the puzzle until the numbers arranged into :
-```
+    ```
     1,2,3
     4,5,6
     7,8,0
-   ``` 
+    ``` 
 5.  Type a number you want to move and hit enter
     Example : 7
     ```
